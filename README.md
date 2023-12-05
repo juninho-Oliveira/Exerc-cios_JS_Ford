@@ -2,7 +2,7 @@
 
 ---
 
-### 1-primeiro desafio!
+### 1-Primeiro desafio!
 
 Escreva um programa que leia as medidas dos lados de um triângulo e escreva se ele é Equilátero,  Isósceles  ou  Escaleno. 
 Sendo    que:    
