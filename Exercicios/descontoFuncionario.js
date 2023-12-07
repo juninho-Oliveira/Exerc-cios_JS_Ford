@@ -22,6 +22,10 @@ let cliente = 4
 let produto = 100
 let desconto = 0;
 
+let cliente = 2
+let produto = 100
+let desconto = 0;
+
 switch (cliente) {
     case 1:
         cliente = "Cliente"
@@ -30,14 +34,14 @@ switch (cliente) {
 
     case 2:
         cliente = "funcionário"
-        desconto = (100*10)/100
+        desconto = (produto*10)/100
         produto = produto-desconto
         console.log(`Olá ${cliente}, você tem 10% de descontos total da compra com ${desconto}% de desconto: R$ ${produto}`)
     break;
 
     case 3:
         cliente = "Vip"
-        desconto = (100*5)/100
+        desconto = (produto*5)/100
         produto = produto-desconto
         console.log(`Olá ${cliente}, você tem 5% de descontos total da compra com ${desconto}% de desconto: R$ ${produto}`)
     break;
