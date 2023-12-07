@@ -10,3 +10,16 @@
 
 //saida
 // = informar o resultado do jogo de futebol
+const nomeTime = "São Paulo"
+let time1 = 3
+
+const nomeTime2 = "corinthians"
+let time2 = 3
+
+if(time1 > time2) {
+    console.log(`Time ${nomeTime}, ganhou por ${time1} X ${time2} Do time ${nomeTime2}`)
+} else if (time2 > time1) {
+    console.log(`Time ${nomeTime2}, ganhou por ${time1} X ${time2} Do time ${nomeTime}`)
+} else {
+    console.log(`Os times ${nomeTime} e ${nomeTime2} empataram ${time2} X ${time1}`)
+}
