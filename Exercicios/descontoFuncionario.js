@@ -14,7 +14,6 @@
 // = se for funcionário terá 10% de desconto
 // = se for vip terá 5% de desconto
 
-
 //entrada de dados
 // = determinar se o cliente é 1- cliente, 2- funcionário e 3-vip
 
@@ -22,9 +21,6 @@ let cliente = 4
 let produto = 100
 let desconto = 0;
 
-let cliente = 2
-let produto = 100
-let desconto = 0;
 
 switch (cliente) {
     case 1:

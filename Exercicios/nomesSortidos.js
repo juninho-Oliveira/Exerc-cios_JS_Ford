@@ -15,7 +15,6 @@ function buscarNome(nome) {
     } else {
         console.log(`Pessoa ${nome} não encontrada no baco de dados `)
     }
-
 }
 
-buscarNome('bigode')
+buscarNome('julio')
