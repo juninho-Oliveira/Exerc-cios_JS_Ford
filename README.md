@@ -23,6 +23,8 @@ saida de dados
 
 ---
 
+### 2-Primeiro desafio!
+
 Uma loja fornece 10% de desconto para funcionários e 5% de desconto para clientes vips. 
 Faça um programa que calcule o valor total a ser pago por uma pessoa. O programa deverá ler o
 valor total da compra efetuada e um código que identifique se o comprador é um cliente comum (1), funcionário (2) ou vip (3).
@@ -44,7 +46,7 @@ entrada de dados
 
 ---
 
-### 2-Primeiro desafio!
+### 3-Primeiro desafio!
 
 Desenvolva um programa que recebe do usuário, o placar de um jogo de futebol (os gols de cada time) e informa se o resultado foi um empate, se a vitória foi do primeiro time ou do segundo time.
 
@@ -61,7 +63,7 @@ saida
 
 ---
 
-### 3-Primeiro desafio!
+### 4-Primeiro desafio!
 
 Um posto está vendendo combustíveis com a seguinte tabela de descontos:
 
