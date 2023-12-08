@@ -14,3 +14,22 @@
 
 //saída de dados
 // imprimir na tela a taxa de mortalidade ou natalidade
+
+const criancaNascidas = 30
+const habitantes = 5000
+const obitos = 10;
+
+console.log('Digite M para calcular a taxa de Mortalidade e N para a taxa de natalidade')
+const res = "M"
+
+switch (res) {
+    case "M":
+        const mortalidade  = (obitos * 1000)/ habitantes;
+        console.log(`O número de óbitos: ${obitos} e o número de habitantes ${habitantes} para mortalidade ${mortalidade}`) 
+    break;
+
+    case "N":
+        const natalidade = (criancaNascidas * 1000)/ habitantes;
+        console.log(`o número de crianças nascidas: ${criancaNascidas} e o número de habitante: ${habitantes} para natalidade: ${natalidade}`) 
+    break;
+}
