@@ -43,3 +43,44 @@ entrada de dados
 -determinar se o cliente é 1- cliente, 2- funcionário e 3-vip
 
 ---
+
+Desenvolva um programa que recebe do usuário, o placar de um jogo de futebol (os gols de cada time) e informa se o resultado foi um empate, se a vitória foi do primeiro time ou do segundo time.
+
+entrada de dados
+-informar os dois times de futebol
+-informar o placar do jogo
+
+processamento
+-realizar a validação através das estruturas condicionais
+-verificar se os times ganharam, perderam ou empataram
+
+saida
+-informar o resultado do jogo de futebol
+
+---
+
+Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+
+Álcool:
+-até 20 litros, desconto de 3% por litro Álcool
+-acima de 20 litros, desconto de 5% por litro
+
+Gasolina:
+-até 20 litros, desconto de 4% por litro Gasolina
+-acima de 20 litros, desconto de 6% por litro
+
+Escreva um algoritmo que leia o número de litros vendidos e o tipo de combustível (codificado
+da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente
+sabendo-se que o preço do litro da gasolina é R$ 5,30 e o preço do litro do álcool é R$ 4,90.
+
+Dica: utilize switch case, operadores lógicos e relacionais e estrutura de condição para otimizar o algorítimo.
+
+entrada de dados
+-selecionar se deseja abastecer com alcool ou com gasolina;
+-selecionar a quantidade de litros que o usuário deseja;
+
+processamento de dados
+-switch case para gasolina ou alcool
+
+saida de dados
+-mostrar a porcentagem de desconto se for alcool ou se for gasolina
