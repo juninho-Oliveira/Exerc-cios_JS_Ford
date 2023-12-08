@@ -2,7 +2,7 @@
 
 ---
 
-### 1-Primeiro desafio!
+### 1-Desafio!
 
 Escreva um programa que leia as medidas dos lados de um triângulo e escreva se ele é Equilátero,  Isósceles  ou  Escaleno. 
 Sendo    que:    
@@ -23,7 +23,7 @@ saida de dados
 
 ---
 
-### 2-Primeiro desafio!
+### 2-Desafio!
 
 Uma loja fornece 10% de desconto para funcionários e 5% de desconto para clientes vips. 
 Faça um programa que calcule o valor total a ser pago por uma pessoa. O programa deverá ler o
@@ -46,7 +46,7 @@ entrada de dados
 
 ---
 
-### 3-Primeiro desafio!
+### 3-Desafio!
 
 Desenvolva um programa que recebe do usuário, o placar de um jogo de futebol (os gols de cada time) e informa se o resultado foi um empate, se a vitória foi do primeiro time ou do segundo time.
 
@@ -63,7 +63,7 @@ saida
 
 ---
 
-### 4-Primeiro desafio!
+### 4-Desafio!
 
 Um posto está vendendo combustíveis com a seguinte tabela de descontos:
 
@@ -90,3 +90,5 @@ processamento de dados
 
 saida de dados
 -mostrar a porcentagem de desconto se for alcool ou se for gasolina
+
+---
