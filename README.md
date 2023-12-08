@@ -92,3 +92,49 @@ saida de dados
 -mostrar a porcentagem de desconto se for alcool ou se for gasolina
 
 ---
+
+### 5-Desafio!
+
+Faça um algoritmo para ler: a descrição do produto (nome), a quantidade adquirida e o
+preço unitário. Calcular e escrever o total (total = quantidade adquirida * preço unitário), o
+desconto e o total a pagar (total a pagar = total - desconto), sabendo-se que:
+
+-Se quantidade <= 5 o desconto será de 2%
+-Se quantidade > 5 e quantidade <=10 o desconto será de 3%
+-Se quantidade > 10 o desconto será de 5%
+
+Dica: utilize if / else if / else
+
+entrada de dados
+= criar variável para receber o nome do produto 
+= perguntar ao usuário qual vai ser a quantidade de produtos
+= perguntar o preço unitário do produto
+
+processamento de dados
+= realizar o calculo do total da quantidade do produto * valor unitário do produto 
+= realidar o calculo do desconto com base na quantidade de produtos que o usuário vai comprar
+
+saída de dados
+= mostrar a saída dos produtos que ela escolher e a quantidade e o preço de cada produto
+= mostrar também o desconto de cada produto
+
+---
+
+### 6-Desafio!
+
+// A taxa de natalidade e a taxa de mortalidade são indicadores estatísticos de fundamental importância por ajudar a compreender aquilo que os especialistas chamam de dinâmica populacional e a entender sua relação com variáveis que influenciam o desenvolvimento, como qualidade de vida, migrações, , fatores socioeconômicos e localização. Sabendo disso, crie um programa que calcule os dois indicadores utilizando o comando switch.
+
+// Observação : A taxa de natalidade é calculada pela seguinte fórmula: taxa de natalidade = (número de crianças nascidas x 1000) / número de habitantes;
+// Enquanto que, a taxa de mortalidade = (números de óbitos x 1000) /número de habitantes.
+
+//entrada de dados
+// verificar o que o usuario vai querer calcular (natalidade ou mortalidade)
+// determinar o número de crianças nascidas e o número de habitantes para natalidade
+// determinar o número de óbitos e o número de habitantes para mortalidade
+
+//processamento de dados
+// realizar o calculo de natalidade e mortalidade 
+// determinar com switch case se o usuario vai querer calcular natalidade ou mortalidade
+
+//saída de dados
+// imprimir na tela a taxa de mortalidade ou natalidade
